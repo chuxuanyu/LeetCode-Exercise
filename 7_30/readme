@@ -1,0 +1,4 @@
+141: linked list cycle:
+ 链表：里面储存下一个节点的地址。
+ id(head);测试object的地址
+ head.next() 读地址里面的下一个head
